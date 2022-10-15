@@ -1,5 +1,5 @@
 // INCLUDING
-import Currencies from './components/Currencies';
+
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 import ContextContries from './data/ContextCountries';
